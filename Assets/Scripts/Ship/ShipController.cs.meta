@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 679bd571594ba724f8c917bee4fb882b
+timeCreated: 1435792524
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CannonBall: {fileID: 186082, guid: 20110bf846f0a4b4dbfb4d49a252ee4e, type: 2}
+  - Missile: {fileID: 156252, guid: 3be93bcc9926e4d4d9facdb167dd51e5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

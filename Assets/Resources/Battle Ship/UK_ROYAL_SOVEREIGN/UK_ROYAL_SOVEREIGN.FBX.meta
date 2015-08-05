@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: 6ca5cfdc9afc76a43a5fbc53c6bfb5c6
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: UK_ROYAL_SOVEREIGN_cannon02
+    4300002: UK_ROYAL_SOVEREIGN_barbette02
+    4300004: UK_ROYAL_SOVEREIGN_cannon19
+    4300006: UK_ROYAL_SOVEREIGN_cannon01
+    4300008: UK_ROYAL_SOVEREIGN_barbette01
+    4300010: UK_ROYAL_SOVEREIGN_cannon18
+    4300012: UK_ROYAL_SOVEREIGN_cannon17
+    4300014: UK_ROYAL_SOVEREIGN_cannon16
+    4300016: UK_ROYAL_SOVEREIGN_cannon15
+    4300018: UK_ROYAL_SOVEREIGN_cannon14
+    4300020: UK_ROYAL_SOVEREIGN_cannon13
+    4300022: UK_ROYAL_SOVEREIGN_cannon03
+    4300024: UK_ROYAL_SOVEREIGN_cannon04
+    4300026: UK_ROYAL_SOVEREIGN_barbette04
+    4300028: UK_ROYAL_SOVEREIGN_barbette03
+    4300030: UK_ROYAL_SOVEREIGN_cannon11
+    4300032: UK_ROYAL_SOVEREIGN_cannon12
+    4300034: UK_ROYAL_SOVEREIGN_cannon10
+    4300036: UK_ROYAL_SOVEREIGN_cannon09
+    4300038: UK_ROYAL_SOVEREIGN_cannon08
+    4300040: UK_ROYAL_SOVEREIGN_cannon07
+    4300042: UK_ROYAL_SOVEREIGN_cannon06
+    4300044: UK_ROYAL_SOVEREIGN_cannon21
+    4300046: UK_ROYAL_SOVEREIGN_cannon05
+    4300048: UK_ROYAL_SOVEREIGN_cannon20
+    4300050: UK_ROYAL_SOVEREIGN
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
